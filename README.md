@@ -11,12 +11,12 @@ Welcome to my corner of GitHub! I'm a passionate developer, builder, and lifelon
 ## 🧠 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=srijanexe-8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=srijanexe-8&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=srijanexe-8&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=srijanexe-8&theme=github_dark_dimmed&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijanexe-8&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijanexe-8&layout=compact&theme=github_dark_dimmed&hide_border=true" />
 </p>
 
 
