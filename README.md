@@ -1,4 +1,5 @@
-# Hi 👋 My name is Srijan Sharma
+
+# Hey, I'm Srijan <span style="font-size:1.5rem;">👋</span>
 
 Welcome to my corner of GitHub! I'm a passionate developer, builder, and lifelong learner who thrives on turning ideas into reality through code. Whether it's working on personal projects, solving real-world problems, or contributing to open-source communities, I’m all about clean code, smart solutions, and continuous growth.
 
@@ -11,12 +12,12 @@ Welcome to my corner of GitHub! I'm a passionate developer, builder, and lifelon
 ## 🧠 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=srijanexe-8&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=srijanexe-8&theme=github_dark_dimmed&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=srijanexe-8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=srijanexe-8&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijanexe-8&layout=compact&theme=github_dark_dimmed&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijanexe-8&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
@@ -61,7 +62,22 @@ When I'm not coding, you'll find me brainstorming new ideas, deep-diving into te
 ## 🤝 Let's Connect
 If you’re into building cool stuff, learning from each other, or starting something meaningful—hit me up. Let’s build something awesome together.
 
----
 
-That’s it. No fluff. No flex.  
-Just code that gets shit done. ✌️
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/srijan-sharma888/" title="LinkedIn">
+        <img src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png" width="40px" alt="LinkedIn" style="margin: 0 10px;" />
+    </a>
+    <a href="https://www.instagram.com/srijan.nvm/" title="Instagram">
+        <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="40px" alt="Instagram" style="margin: 0 px;" />
+    </a>
+    <a href="https://github.com/srijanexe-8" title="GitHub">
+        <img src="https://img.icons8.com/3d-fluency/94/github-logo.png" width="40px" alt="GitHub" style="margin: 0 10px;" />
+    </a>
+    <!-- <a href="https://<your-portfolio-url>" title="Portfolio">
+        <img src="https://img.icons8.com/3d-fluency/94/briefcase--v1.png" width="40px" alt="Portfolio" style="margin: 0 10px;" />
+    </a>
+    <a href="https://twitter.com/<your-username>" title="Twitter">
+        <img src="https://img.icons8.com/3d-fluency/94/x.png" width="40px" alt="Twitter" style="margin: 0 10px;" />
+    </a> -->
+</p>
